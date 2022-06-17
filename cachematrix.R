@@ -1,4 +1,4 @@
-## Put comments here that give an overall description of what your
+## First I assigned x to the matrix, then I assigned the inverseto NULL
 ## makeCache function allows us to create a matrix whose matrix can be inversed and stored in a cache)
 
 ## Write a short comment describing this function
